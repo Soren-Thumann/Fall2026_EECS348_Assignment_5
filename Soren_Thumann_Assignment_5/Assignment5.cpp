@@ -1,7 +1,10 @@
-/* EECS 348 Assignment 4
- *  This program is a sodoku solver meant to brute-force solutions for the timeless
- *  puzzle type. 
- *  Collaborators: Luke Tidball, ChatGPT 6
+/*  Name: EECS 348 Assignment 5
+ *  Description: This program is a sodoku solver meant to brute-force solutions for the timeless
+ *  puzzle type. This is the revised version of the program that outputs the solutions to specific files instead of into terminal.
+ *  Inputs: Several puzzle files: puzzle1.txt, puzzle2.txt, puzzle3.txt, puzzle4.txt, puzzle5.txt
+ *  Outputs: Several solution files: solution1.txt, solution2.txt, solution3.txt, solution4.txt, solution5.txt
+ *  Collaborators: Luke Tidball, ChatGPT 6, Soren Thumann, Claude.ai
+ *  Author: Luke Tidball
  *  Revised by: Soren Thumann, Claude.ai
  *  Revision Date: October 29th, 2026
  */
